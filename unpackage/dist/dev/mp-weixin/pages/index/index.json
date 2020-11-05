@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "easy-entry": "/components/easy-entry/easy-entry"
+  }
+}
